@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3198ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+o+Kadu;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3198ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Kadu!;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 <br>
 <div align="center"> 
 <a href="https://instagram.com/kaduteixeira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
