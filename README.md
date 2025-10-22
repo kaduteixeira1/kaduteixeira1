@@ -1,11 +1,30 @@
-# 👋 hey, I'm Kadu
-• Computer Science undergrad @ CESUPA (2026)
+# Cybersecurity Analyst | Carlos Teixeira
 
-Backend & web developer.
+```bash
+$ cat about.txt
+```
+Focused on network security, threat analysis, and security automation.  
+Cisco | Python | SOC | Pentesting | CTFs
 
-**Currently working with:**  
-Node.js, React, Python, networks, scripting & automation
+```bash
+$ ls skills/
+```
+`threat-analysis` `network-security` `python-automation` `vulnerability-detection` `incident-response` `digital-forensics`
 
-**Learning:**  
-TypeScript, microservices, cloud fundamentals, data engineering, security
 
+```bash
+$ ./current_status.sh
+```
+> Building security tools and participating in CTF challenges  
+> Exploring AI applications in cybersecurity  
+> Always learning, always securing
+
+```bash
+$ cat contact.txt
+```
+<p>in/kaduteixeira</p>
+<p>eduardoteixeiracc@gmail.com</p>
+
+```bash
+$ █
+```
